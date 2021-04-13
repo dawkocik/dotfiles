@@ -103,3 +103,4 @@ source $ZSH/oh-my-zsh.sh
 eval "$(starship init zsh)"
 
 alias config='/usr/bin/git --git-dir=/home/dawidek/.cfg/ --work-tree=/home/dawidek'
+ntpdate pool.ntp.org
